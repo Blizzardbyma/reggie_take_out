@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="853c9e13-184a-4889-bf85-3ee82b398cb5" name="Changes" comment="1.1" />
+    <list default="true" id="853c9e13-184a-4889-bf85-3ee82b398cb5" name="Changes" comment="1.1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-linux.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-linux.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application-linux.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application-linux.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,10 +52,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Idea code/reggie_take_out&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;31ee954601a2ac7573b0782bc2eec0b0&quot;
   }
 }</component>
@@ -106,7 +113,8 @@
       <workItem from="1657696426455" duration="27097000" />
       <workItem from="1658584739609" duration="2888000" />
       <workItem from="1658588825439" duration="1837000" />
-      <workItem from="1658590784960" duration="1423000" />
+      <workItem from="1658590784960" duration="2178000" />
+      <workItem from="1658593001980" duration="4246000" />
     </task>
     <task id="LOCAL-00001" summary="v1.0">
       <created>1657363601986</created>
@@ -122,7 +130,35 @@
       <option name="project" value="LOCAL" />
       <updated>1658591952717</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1.1">
+      <created>1658592579392</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658592579392</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1.1">
+      <created>1658592606840</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658592606840</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1.1">
+      <created>1658592643139</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658592643139</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1.1">
+      <created>1658592678405</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658592678405</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,5 +190,9 @@
         <PinnedItemInfo parentTag="com.itheima.reggie.dto.SetmealDto" memberName="setmealDishes" />
       </pinned-members>
     </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
